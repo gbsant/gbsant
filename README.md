@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gbsant?tab=repositories](https://github.com/gbsant?tab=repositories)
 
-- 💬 Ask me about **Python and SQL**
-
-- 📫 How to reach me **glopes_@outlook.com.br**
+- 📫 How to reach me **gabrielsvnt@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabrielslopes/](https://www.linkedin.com/in/gabrielslopes/)
 
