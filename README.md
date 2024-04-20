@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lopes</h1>
-<h3 align="center">Student of data analytics and data science on digital world.</h3>
+<h3 align="center">Student of data engineering.</h3>
 
 - 🌱 I’m currently learning about **Data**
 
